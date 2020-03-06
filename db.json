@@ -6,13 +6,9 @@
       "journal": "Amazing Physics Journal",
       "year": 1998,
       "abstract": "The BICEP2 collaboration has recently reported a large tensor fluctuation in the cosmic microwave background, which suggests chaotic inflation models. In this letter, we reconsider the chaotic inflation model in the supergravity.",
-      "keywords": [
-        "chaos", "supergravity", "physics"
-      ],
+      "keywords": ["chaos", "supergravity", "physics"],
       "references": [],
-      "citingArticles": [
-        2, 3
-      ]
+      "citingArticles": [2, 3]
     },
     {
       "id": 2,
@@ -20,15 +16,9 @@
       "journal": "We Like Physics",
       "year": 2001,
       "abstract": "In this paper we present a systematic study of inflationary phase transitions in locally supersymmetric theories.",
-      "keywords": [
-        "supersymmetry", "transitions", "physics"
-      ],
-      "references": [
-        1, 1
-      ],
-      "citingArticles": [
-        3
-      ]
+      "keywords": ["supersymmetry", "transitions", "physics"],
+      "references": [1, 1],
+      "citingArticles": [3, 8]
     },
     {
       "id": 3,
@@ -36,12 +26,58 @@
       "journal": "Universe Letters",
       "year": 2002,
       "abstract": "The horizon, flatness and monopole problems can be solved if the universe underwent an exponentially expanding stage which ended with a Higgs scalar field running slowly down an effective potential.",
-      "keywords": [
-        "horizon", "universe", "Higgs"
-      ],
-      "references": [
-        1, 1, 2
-      ],
+      "keywords": ["horizon", "universe", "Higgs"],
+      "references": [1, 1, 2],
+      "citingArticles": [4]
+    },
+    {
+      "id": 4,
+      "title": "Effect of supergravity on heat transfer characteristics of PCM with the pore-scale lattice Boltzmann method",
+      "journal": "Universe Letters",
+      "year": 2006,
+      "abstract": "Latent thermal energy storage has been recommended as an effective technique to the thermal management system of space exploration due to its excellent ability of storing thermal energy.",
+      "keywords": ["thermal", "energy", "supergravity"],
+      "references": [3],
+      "citingArticles": []
+    },
+    {
+      "id": 5,
+      "title": "Thermal analysis of void cavity for heat pipe receiver under microgravity",
+      "journal": "We Like Physics",
+      "year": 2006,
+      "abstract": "Based on theoretical analysis of PCM (Phase Change Material) solidification process, the model of improved void cavity distribution tending to high temperature region is established.",
+      "keywords": ["void", "microgravity", "temperature", "PCM", "cavity"],
+      "references": [],
+      "citingArticles": [6, 8]
+    },
+    {
+      "id": 6,
+      "title": "On the smallness of the cosmological constant",
+      "journal": "We Like Physics",
+      "year": 2011,
+      "abstract": "In N = 1 supergravity the scalar potential of the hidden sector may have degenerate supersymmetric (SUSY) and non-supersymmetric Minkowski vacua.",
+      "keywords": ["non-supersymmetric", "supergravity", "supersymmetric", "Minkowski", "degenerate"],
+      "references": [5, 5, 5, 5],
+      "citingArticles": []
+    },
+    {
+      "id": 7,
+      "title": "Fixed point scenario in the two Higgs doublet model inspired by degenerate vacua",
+      "journal": "Amazing Physics Journal",
+      "year": 2012,
+      "abstract": "We consider the renormalisation group flow of Higgs and Yukawa couplings within the simplest non-supersymmetric two Higgs doublet extension of the Standard Model (SM).",
+      "keywords": ["renormalisation", "Higgs", "Yukawa", "non-supersymmetric", "degenerate"],
+      "references": [],
+      "citingArticles": []
+    },
+    {
+      "id": 8,
+      "title": "Electroweak Higgs potential and vacuum stability",
+      "journal": "Amazing Physics Journal",
+      "year": 2012,
+      "abstract": "In electroweak models, radiative corrections to the scalar potential can have significant consequences.",
+      "keywords": ["electroweak", "radiative", "scalar"],
+      "references": [5, 2, 5, 2, 2],
       "citingArticles": []
     }
   ]
