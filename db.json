@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Discovery of large scale tensor mode and chaotic inflation in supergravity",
+      "journal": "Amazing Physics Journal",
+      "year": 1998,
+      "abstract": "The BICEP2 collaboration has recently reported a large tensor fluctuation in the cosmic microwave background, which suggests chaotic inflation models. In this letter, we reconsider the chaotic inflation model in the supergravity.",
+      "keywords": [
+        "chaos", "supergravity", "physics"
+      ],
+      "references": [],
+      "citingArticles": [
+        2, 3
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Supersymmetry and inflation: A new approach",
+      "journal": "We Like Physics",
+      "year": 2001,
+      "abstract": "In this paper we present a systematic study of inflationary phase transitions in locally supersymmetric theories.",
+      "keywords": [
+        "supersymmetry", "transitions", "physics"
+      ],
+      "references": [
+        1, 1
+      ],
+      "citingArticles": [
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The development of irregularities in a single bubble inflationary universe",
+      "journal": "Universe Letters",
+      "year": 2002,
+      "abstract": "The horizon, flatness and monopole problems can be solved if the universe underwent an exponentially expanding stage which ended with a Higgs scalar field running slowly down an effective potential.",
+      "keywords": [
+        "horizon", "universe", "Higgs"
+      ],
+      "references": [
+        1, 1, 2, 3, 3, 3
+      ],
+      "citingArticles": []
+    }
+  ]
+}
